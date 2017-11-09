@@ -10,7 +10,7 @@ def circumference(x):
 	""" my docstring is the best""" 
 	l = np.pi*2*x
 	return l
-"""l;jhadsf;kha;f"""
+
 
 print("The circumference is", circumference(3))
 
